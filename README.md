@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm Denise! 👋</h1>
-<h3 align="center">A full stack developer from Los Angeles, CA</h3>
+<h3 align="center">A data analyst and full stack developer from Los Angeles, CA</h3>
 
 - 🔭 I’m currently working on [freeCodeCamp Projects](https://github.com/DeniseLewis1/freecodecamp-projects)
 
