@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python, React Native
 
-- 👯 I’m looking to collaborate on Software Engineering projects
+- 👯 I’m looking to collaborate on Data Analytics or Software Engineering projects
 
 - 👨‍💻 My portfolio is available at [https://deniselewis.co/](https://deniselewis.co/)
 
-- 💬 Ask me about front end development, Python
+- 💬 Ask me about Excel, front end development, Python
 
 - 📫 How to reach me: [deniselewis1120@gmail.com](mailto:deniselewis1120@gmail.com)
 
