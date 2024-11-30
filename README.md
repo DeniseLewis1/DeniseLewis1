@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [freeCodeCamp Projects](https://github.com/DeniseLewis1/freecodecamp-projects)
 
-- 🌱 I’m currently learning Python, React Native
+- 🌱 I’m currently learning Python
 
 - 👯 I’m looking to collaborate on Data Analytics or Software Engineering projects
 
