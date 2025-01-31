@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm Denise! 👋</h1>
-<h3 align="center">A data analyst and full stack developer from Los Angeles, CA</h3>
+<h3 align="center">A data engineer and data analyst from Los Angeles, CA</h3>
 
 - 🔭 I’m currently working on [freeCodeCamp Projects](https://github.com/DeniseLewis1/freecodecamp-projects)
 
 - 🌱 I’m currently learning Python
 
-- 👯 I’m looking to collaborate on Data Analytics or Software Engineering projects
+- 👯 I’m looking to collaborate on Data Engineering, Data Analytics or Software Engineering projects
 
 - 👨‍💻 My portfolio is available at [https://deniselewis.co/](https://deniselewis.co/)
 
