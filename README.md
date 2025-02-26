@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 My portfolio is available at [https://deniselewis.co/](https://deniselewis.co/)
 
-- 💬 Ask me about Excel, front end development, Python
+- 💬 Ask me about Excel, Python, data analytics
 
 - 📫 How to reach me: [deniselewis1120@gmail.com](mailto:deniselewis1120@gmail.com)
 
