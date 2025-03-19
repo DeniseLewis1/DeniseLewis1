@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Denise! 👋</h1>
+<h1 align="center">Hi there, I'm Denise!</h1>
 <h3 align="center">A data engineer / data analyst from Los Angeles, CA</h3>
 
 - 🔭 I’m currently working on [freeCodeCamp Projects](https://github.com/DeniseLewis1/freecodecamp-projects)
